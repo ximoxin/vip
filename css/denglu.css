@@ -1,0 +1,139 @@
+@charset="UTF-8";
+.all{
+	width: 100%;
+	height: 550px;
+	background-color: gray;
+}
+.one{
+	width: 100%;
+	height: 70px;
+	background-color: white;
+}
+.two{
+	width: 100%;
+	height: 480px;
+	background-color: #fcc7c1;
+}
+.right img{
+	position: fixed;
+	width: 35px;
+	height: 560px;
+	right: 0px;
+	bottom: 0px;
+}
+.wpht img{
+	width: 12%;
+	height: 60px;
+	position: relative;
+	left: 180px;
+	top: 5px;
+}
+/*右侧的小图标*/
+.sp{
+	width: 30%;
+	height: 50px;
+	background-color: white;
+	position: relative;
+	left: 850px;
+	bottom: 50px;
+}
+.sp-1 img{
+	height: 20px;
+	position:relative; 
+	left: 10px;
+	top: 24px;
+}
+.zp{
+	font-size: 13px;
+	position: relative;
+	left: 30px;
+	color: gray;
+}
+.sp-2 img{
+	height: 20px;
+	position: relative;
+	left: 100px;
+	bottom: 20px;
+}
+.fxt{
+	font-size: 13px;
+	position: relative;
+	left: 125px;
+	bottom:44px;
+	color: gray;
+}
+.sp-3 img{
+	height: 20px;
+	position: relative;
+	left: 203px;
+	bottom: 65px;
+}
+.fyf{
+	font-size: 13px;
+	position: relative;
+	left: 228px;
+	bottom:88px;
+	color: gray;
+}
+/*下面的部分*/
+.picture img{
+	position: relative;
+	width: 65%;
+	height: 480px;
+}
+.two-1{
+	width: 260px;
+	height: 300px;
+	background-color: white;
+	position: relative;
+	left: 900px;
+	bottom: 380px;
+}
+/*白框里的部分*/
+.t-1{
+	width: 100%;
+	height: 50px;
+	background-color: white;
+}
+.t-2{
+	width: 100%;
+	height: 200px;
+	background-color: white;
+}
+.t-3{
+	width: 100%;
+	height: 50px;
+	background-color: white;
+}
+.t-1 span{
+	position: relative;
+	left: 20px;
+	top: 25px;
+	margin: 10px;
+	font-weight:bold; 
+}
+.sm{
+	color: #e20299;
+}
+.t-2 img{
+	width: 100px;
+	height: 100px;
+	position: relative;
+	left: 80px;
+	top: 55px;
+}
+.t-3 img{
+	width: 100px;
+	height: 20px;
+	position: relative;
+	top: 30px;
+}
+.t-3 span{
+	position: relative;
+	top: 26px;
+}.t-3 a{
+	font-weight: bold;
+	position: relative;
+	left: 33px;
+	top: 25px;
+}
